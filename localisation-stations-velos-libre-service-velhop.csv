@@ -1,18 +1,18 @@
-id,go/x,go/y,ic,ln,ad,ty
-0,7.734506610372,48.585124209022,velhop,"Station/boutique Vélhop ""Gare centrale""",Niveau -1 Grande Verrière de la gare,mixte
-1,7.7666481641714,48.582203670657,velhop,"Station Vélhop ""Université""",,station
-2,7.7340223115619,48.530181109656,velhop,"Station Vélhop ""Campus d'Illkirch""",,station
-3,7.7518249973693,48.577972805858,velhop,"Station Vélhop ""Parking Austerlitz""",,station
-4,7.7412039567766,48.549413852845,velhop,"Station Vélhop ""Hohwart""",,station
-5,7.7350887487117,48.585845177392,velhop,"Station Vélhop ""Gare Nord""",,station
-6,7.7494557302936,48.585452297791,velhop,"Station Vélhop ""Parking Broglie""",,station
-7,7.7248699147393,48.591774044972,velhop,"Station Vélhop ""Rotonde""",Station tram Rotonde,station
-8,7.713535389852,48.579036513251,velhop,"Station Vélhop ""Koenigshoffen""","67, route des Romains",station
-9,7.7688348263961,48.584407305581,velhop,"Station Vélhop ""Place Arnold""",,station
-10,7.7781819687631,48.597865361905,velhop,"Station Vélhop ""Robertsau Boecklin""",,station
-11,7.713170400148,48.55107545968,velhop,"Station Vélhop ""Ostwald - Hôtel de Ville""",,station
-12,7.7498395076597,48.578379599957,velhop,"Station/boutique Vélhop ""Centre""",3 rue d'Or,mixte
-13,7.7338932835006,48.5842574636,velhop,"Station Vélhop ""Gare Sud""",,station
-14,7.7620979728917,48.583300913713,velhop,"Boutique Vélhop ""Esplanade""",23 boulevard de la Victoire,boutique
-15,7.7588932005443,48.628180279101,velhop,"Station Vélhop ""Hoenheim Gare""",,station
-16,7.776524158102,48.580579260558,velhop,"Station Vélhop ""Place d'Islande""",,station
+id;go/x;go/y;ic;ln;ad;ty
+0;7.734506610372;48.585124209022;velhop;"Station/boutique Vélhop ""Gare centrale""";Niveau -1 Grande Verrière de la gare;mixte
+1;7.7666481641714;48.582203670657;velhop;"Station Vélhop ""Université""";;station
+2;7.7340223115619;48.530181109656;velhop;"Station Vélhop ""Campus d'Illkirch""";;station
+3;7.7518249973693;48.577972805858;velhop;"Station Vélhop ""Parking Austerlitz""";;station
+4;7.7412039567766;48.549413852845;velhop;"Station Vélhop ""Hohwart""";;station
+5;7.7350887487117;48.585845177392;velhop;"Station Vélhop ""Gare Nord""";;station
+6;7.7494557302936;48.585452297791;velhop;"Station Vélhop ""Parking Broglie""";;station
+7;7.7248699147393;48.591774044972;velhop;"Station Vélhop ""Rotonde""";Station tram Rotonde;station
+8;7.713535389852;48.579036513251;velhop;"Station Vélhop ""Koenigshoffen""";"67; route des Romains";station
+9;7.7688348263961;48.584407305581;velhop;"Station Vélhop ""Place Arnold""";;station
+10;7.7781819687631;48.597865361905;velhop;"Station Vélhop ""Robertsau Boecklin""";;station
+11;7.713170400148;48.55107545968;velhop;"Station Vélhop ""Ostwald - Hôtel de Ville""";;station
+12;7.7498395076597;48.578379599957;velhop;"Station/boutique Vélhop ""Centre""";3 rue d'Or;mixte
+13;7.7338932835006;48.5842574636;velhop;"Station Vélhop ""Gare Sud""";;station
+14;7.7620979728917;48.583300913713;velhop;"Boutique Vélhop ""Esplanade""";23 boulevard de la Victoire;boutique
+15;7.7588932005443;48.628180279101;velhop;"Station Vélhop ""Hoenheim Gare""";;station
+16;7.776524158102;48.580579260558;velhop;"Station Vélhop ""Place d'Islande""";;station
