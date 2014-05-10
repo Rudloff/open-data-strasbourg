@@ -1,0 +1,25 @@
+id;go/x;go/y;ic;ln2;ln;pr;price_fr;price_en;price_de
+1;7.6864908398663;48.595356088816;parking;test;ZENITH;ZENITH;ZENITH;{price_fr};{price_fr}
+2;7.7560718846503;48.581022231305;parking;test;Bateliers;Bateliers;Bateliers;{price_fr};{price_fr}
+3;7.7492982398206;48.585709051829;parking;test;Broglie;Broglie;Broglie;{price_fr};{price_fr}
+4;7.7357170060558;48.544666689216;parking;test;P+R Baggersee;P+R Baggersee;P+R Baggersee;{price_fr};{price_fr}
+5;7.7159903608557;48.589259018104;parking;test;P+R Ducs d'Alsace;P+R Ducs d'Alsace;P+R Ducs d'Alsace;{price_fr};{price_fr}
+6;7.7303334473801;48.568423410324;parking;test;P+R Elsau;P+R Elsau;P+R Elsau;{price_fr};{price_fr}
+7;7.7261244781828;48.591246691853;parking;test;P+R Rotonde;P+R Rotonde;P+R Rotonde;{price_fr};{price_fr}
+8;7.7358996043246;48.584348647673;parking;test;Gare;Gare;Gare;{price_fr};{price_fr}
+9;7.732298446108;48.582569952868;parking;test;Gare St.Aurelie;Gare St.Aurelie;Gare St.Aurelie;{price_fr};{price_fr}
+10;7.7367944360291;48.587404610082;parking;test;Gare Wodli;Gare Wodli;Gare Wodli;{price_fr};{price_fr}
+11;7.7483083177206;48.581580518695;parking;test;Gutenberg;Gutenberg;Gutenberg;{price_fr};{price_fr}
+12;7.7450861941687;48.583517328227;parking;test;Kleber;Kleber;Kleber;{price_fr};{price_fr}
+13;7.7393981966122;48.587382025277;parking;test;Halles P1;Halles P1;Halles P1;{price_fr};{price_fr}
+14;7.7421753086292;48.586809981656;parking;test;Halles P2;Halles P2;Halles P2;{price_fr};{price_fr}
+15;7.7765869683922;48.597991218276;parking;test;P+R Boecklin;P+R Boecklin;P+R Boecklin;{price_fr};{price_fr}
+16;7.7503107890667;48.561266328186;parking;test;P+R Krimmeri;P+R Krimmeri;P+R Krimmeri;{price_fr};{price_fr}
+17;7.7352819361934;48.579217731825;parking;test;Petite France;Petite France;Petite France;{price_fr};{price_fr}
+18;7.7538341527375;48.59965226758;parking;test;P+R Rives de l'Aar;P+R Rives de l'Aar;P+R Rives de l'Aar;{price_fr};{price_fr}
+19;7.7495498065752;48.575596236791;parking;test;St.Nicolas;St.Nicolas;St.Nicolas;{price_fr};{price_fr}
+20;7.7436539305255;48.583164295422;parking;test;Tanneurs;Tanneurs;Tanneurs;{price_fr};{price_fr}
+21;7.7518193637828;48.577983703213;parking;test;Austerlitz;Austerlitz;Austerlitz;{price_fr};{price_fr}
+22;7.7401721171329;48.587980902672;parking;test;Halles P3;Halles P3;Halles P3;{price_fr};{price_fr}
+23;7.75986165784;48.573302877444;parking;test;Rivetoile P1;Rivetoile P1;Rivetoile P1;{price_fr};{price_fr}
+24;7.7578100435952;48.627908710595;parking;test;P+R Hoenheim Gare;P+R Hoenheim Gare;P+R Hoenheim Gare;{price_fr};{price_fr}
