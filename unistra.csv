@@ -1,0 +1,559 @@
+description;floor;id;latitude;longitude;name;related_to_poi;tags;time_created;time_modified;type;url
+-;-;1;48.5803337;7.7655637;Central;0;-;2012-03-25 12:01:01;2012-03-28 16:11:27;campus;http://fr.wikipedia.org/wiki/Campus_central_de_Strasbourg
+-;-;2;48.5773720;7.7398735;Médecine;0;-;2012-03-25 12:01:01;2012-03-28 16:12:31;campus;http://fr.wikipedia.org/wiki/Campus_M%C3%A9decine
+-;-;3;48.5267163;7.7371001;Ilkirch;0;-;2012-03-25 12:01:01;2012-03-28 16:12:59;campus;http://fr.wikipedia.org/wiki/Campus_d%27Illkirch
+-;-;4;48.6056170;7.7116084;Cronenbourg Schiltigheim;0;-;2012-03-25 12:01:01;2012-03-28 16:13:32;campus;http://fr.wikipedia.org/wiki/Campus_de_Cronenbourg
+-;-;5;48.5599374;7.7444279;Meinau;0;-;2012-03-25 12:01:01;2012-03-28 10:41:45;campus;-
+-;-;6;48.5803337;7.7655637;Autres;0;-;2012-03-25 12:01:01;2013-11-21 16:12:06;campus;-
+-;0;12;48.5784040;7.7640110;-;27;-;2012-03-25 12:01:01;2014-02-14 14:57:38;acces_handicap;-
+-;1-3;13;48.5784300;7.7639560;-;27;-;2012-03-25 12:01:01;2014-02-14 14:54:57;toilettes;-
+-;-1;14;48.5784940;7.7634420;-;27;-;2012-03-25 12:01:01;2012-03-27 16:55:32;toilettes;-
+-;0;15;48.5785590;7.7634340;AT8;27;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;2;16;48.5785590;7.7633340;AT9;27;-;2012-03-25 12:01:01;2013-01-14 15:38:03;amphi;-
+-;0;17;48.5785443;7.7637198;Spot Numérique Atrium;27;-;2012-03-25 12:01:01;2014-02-06 10:40:32;spot_numerique;-
+-;0;18;48.5784770;7.7636540;Centre Culture Numérique;27;-;2012-03-25 12:01:01;2014-02-14 14:59:56;autre;http://services-numeriques.unistra.fr/culture-numerique/centre-de-culture-numerique.html
+-;-1;19;48.5784690;7.7634850;-;27;-;2012-03-25 12:01:01;2014-02-14 15:01:44;distributeur;-
+-;0-3;20;48.5784690;7.7639820;-;27;-;2012-03-25 12:01:01;2014-02-14 14:55:52;ascenseur;-
+Amphi 1 Jean Cavaillès;1;21;48.5783160;7.7648301;Amphi 1 Jean Cavaillès;28;-;2012-03-25 12:01:01;2013-11-14 15:56:43;amphi;http://goo.gl/vaYIoe
+Acces compliqué  depuis 1er étage prendre passerelle vers Bat 5 puis revenir au 2eme étage de la passerelle.;2;22;48.5781998;7.7646625;Amphi 2;28;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;1;23;48.5783613;7.7650809;Amphi 3;28;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;1;24;48.5783373;7.7653478;Amphi 4;28;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;1;25;48.5783125;7.7656160;Amphi 5;28;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;1;26;48.5782930;7.7658682;Amphi 6;28;-;2012-03-25 12:01:01;2012-03-27 16:55:32;amphi;-
+-;-;27;48.5785237;7.7636379;Atrium;1;-;2012-03-25 12:01:01;2012-03-28 10:44:05;batiment;-
+-;-;28;48.5783125;7.7651748;Patio;1;-;2012-03-25 12:01:01;2012-03-28 10:44:05;batiment;-
+-;-;29;48.5783001;7.7678275;Athena;1;-;2012-03-25 12:01:01;2012-03-28 10:44:05;batiment;-
+-;-;30;48.5814000;7.7665660;Bibliothèque Blaise Pascal;1;-;2012-03-25 12:01:01;2012-11-12 14:29:42;batiment;http://www-sicd.u-strasbg.fr/bibs/sciences/
+-;-;31;48.5790596;7.7620634;Bibliothèque U2-U3;1;-;2012-03-25 12:01:01;2012-03-28 16:04:05;batiment;http://www-sicd.u-strasbg.fr/bibs/u2u3/
+-;-;32;48.5804508;7.7653652;Centre Sportif Universitaire;1;-;2012-03-25 12:01:01;2012-03-28 16:06:18;batiment;https://wo.u-strasbg.fr/app/WebObjects/SUAPSWeb.woa/wa/acceuil
+-;-;33;48.5798510;7.7677470;Centre de Neurochimie;1;-;2012-03-25 12:01:01;2012-03-28 16:06:57;batiment;http://neurochem.u-strasbg.fr/
+-;-;34;48.5843048;7.7595395;Cité Universitaire Galia;1;-;2012-03-25 12:01:01;2012-03-28 16:07:51;batiment;http://crous-strasbourg.fr/logement/residence-la-gallia.html
+-;-;35;48.5812635;7.7683961;Collège Doctoral Européen;1;-;2012-03-25 12:01:01;2012-03-28 16:08:20;batiment;http://cde.u-strasbg.fr/
+-;-;36;48.5843189;7.7710247;Ensemble Saint-Georges;1;-;2012-03-25 12:01:01;2012-03-28 10:44:06;batiment;-
+-;-;44;48.5785059;7.7617979;Escarpe;1;-;2012-03-25 12:01:01;2012-03-28 10:47:04;batiment;-
+-;-;45;48.5789495;7.7675056;Faculté de Droit;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;46;48.5841415;7.7716470;Faculté de Géographie;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;47;48.5846490;7.7647805;Faculté de Psychologie;1;-;2012-03-25 12:01:01;2012-11-12 15:30:25;batiment;http://www.unistra.fr/index.php?id=295
+-;-;48;48.5835986;7.7651936;Faculté des sciences de l'éducation;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;49;48.5834921;7.7629352;Géologie;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;50;48.5807276;7.7664462;Institut Lebel;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;51;48.5820761;7.7650407;Institut National des Sciences Appliquées;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;52;48.5796132;7.7647913;Institut de Biologie Moléculaire et Cellulaire;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;53;48.5807737;7.7636969;Institut de Biologie Moléculaires des Plantes;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;54;48.5841699;7.7665669;Institut de Botanique;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;55;48.5838860;7.7643031;Institut de Physique;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;56;48.5804934;7.7627796;Institut de Recherches Mathématiques Avancées;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;57;48.5804898;7.7643836;Institut de Science et d'Ingénierie Supramoléculaire;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;58;48.5834105;7.7667868;Jardin Botanique;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;parc;-
+-;-;59;48.5804827;7.7683157;MISHA;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;60;48.5846756;7.7682298;Maison Universitaire France-Japon;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;61;48.5831532;7.7760673;Maison de l'Ingénieur et de l'architecte;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;62;48.5843367;7.7679670;Maison des Personnels;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;63;48.5798847;7.7632664;Mathématique  Informatique - Physique du Globe;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;64;48.5839179;7.7657595;Musée de Sismologie;1;-;2012-03-25 12:01:01;2012-03-28 10:47:05;batiment;-
+-;-;65;48.5788378;7.7646679;Nouveau Patio;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;66;48.5829491;7.7680501;Observatoire Astronomique de Strasbourg;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;67;48.5847696;7.7624738;Palais Universitaire;1;-;2012-03-25 12:01:01;2012-11-12 15:38:01;batiment;http://fr.wikipedia.org/wiki/Palais_universitaire_de_Strasbourg
+-;-;68;48.5778582;7.7677578;Pangloss;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;69;48.5829420;7.7691150;Planétarium de Strasbourg;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;70;48.5780516;7.7672160;Platane;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;71;48.5783817;7.7627420;Portique;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;72;48.5830201;7.7737230;Pôle Européen de Gestion et d'Economie;1;-;2012-03-25 12:01:01;2012-03-28 10:47:06;batiment;-
+-;-;73;48.5846200;7.7595296;Restaurant Universitaire Galia;1;-;2012-03-25 12:01:01;2012-11-07 11:55:40;batiment;http://www.afges.org/fr/12943272486256-la-gallia-ru-de-l-afges.html
+-;-;74;48.5817497;7.7659500;Restaurant Universitaire de l'Esplanade;1;-;2012-03-25 12:01:01;2012-03-28 10:50:35;batiment;-
+-;-;75;48.5830805;7.7749676;Résidence Universitaire de la Somme;1;-;2012-03-25 12:01:01;2012-03-28 10:50:35;batiment;-
+-;-;76;48.5829279;7.7647966;Musée de Zoologie;1;-;2012-03-25 12:01:01;2012-03-28 15:59:41;batiment;http://www.musees.strasbourg.eu/index.php?page=musee-zoo
+Since November 1st 2000  27 rooms are available in this residence for professors in passing in the universities and the other higher education and research institution of Strasbourg. The Arconati-Visconti residence  property of the University of Strasbour;-;77;48.5845390;7.7732402;Villa Arconati Visconti;1;-;2012-03-25 12:01:01;2012-03-28 10:50:35;batiment;-
+-;-;78;48.5850038;7.7683452;Institut du travail;1;-;2012-03-25 12:01:01;2012-03-28 10:50:35;batiment;-
+-;-;79;48.5839730;7.7601269;Maison de l'étudiante;1;-;2012-03-25 12:01:01;2012-03-28 10:50:35;cite_universitaire;-
+-;-;80;48.5852842;7.7572274;ENGEES;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;81;48.5849258;7.7547303;Fondation Européene de la Science;6;-;2012-03-25 12:01:01;2012-03-28 11:02:04;batiment;-
+Foyer de l'Etudiant Catholique;-;82;48.5828995;7.7546176;FEC;6;-;2012-03-25 12:01:01;2012-03-28 11:02:04;batiment;-
+-;-;83;48.5824186;7.7590165;Ecole supérieure des arts décoratifs;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;84;48.5816414;7.7634126;Halle des sports;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;centre_sportif;-
+-;-;85;48.5799433;7.7657032;Plateforme de Biologie;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;86;48.5796744;7.7657307;Physiologie;1;-;2012-03-25 12:01:01;2012-05-03 15:55:29;batiment;-
+-;-;87;48.5806424;7.7674091;Faculté de Chimie;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;88;48.5800107;7.7747422;Résidence universitaire Les Flamboyants;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;89;48.5785521;7.7704990;MGEL;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;90;48.5791359;7.7604809;La mutuelle des étudiants;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;batiment;-
+-;-;91;48.5767030;7.7635950;Résidence universitaire Paul Appell;1;-;2012-03-25 12:01:01;2012-03-28 10:50:36;cite_universitaire;-
+-;-;92;48.5761014;7.7636406;Restaurant universitaire Paul Appell;463;-;2012-03-25 12:01:01;2012-11-07 12:01:34;restaurant_universitaire;http://crous-strasbourg.fr/restauration/liste-restaurants/strasbourg.html
+-;-;93;48.5828356;7.7546874;Restaurant Universitaire du FEC;6;-;2012-03-25 12:01:01;2012-03-28 11:02:04;restaurant_universitaire;-
+4 rue Kirschleger;-;94;48.5774119;7.7396777;Faculté de médecine;2;-;2012-03-25 12:01:01;2012-03-28 15:57:13;batiment;http://www-ulpmed.u-strasbg.fr/
+-;-;95;48.5765787;7.7394551;Forum médecine;2;-;2012-03-25 12:01:01;2012-03-28 10:51:41;batiment;-
+-;-;98;48.5769354;7.7388704;Bâtiment 3;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;99;48.5753640;7.7385606;Institut de bactériologie  parasitologie  virologie;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;100;48.5752513;7.7411583;Nouvel Hôpital Civil;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;101;48.5746941;7.7424350;Dermatologie;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+IRCAD;-;103;48.5758636;7.7430412;Institut de recherche contre les cancers de l'appareil digestif;2;-;2012-03-25 12:01:01;2012-03-28 15:57:39;batiment;http://www.ircad.fr/
+-;-;104;48.5771856;7.7448303;Faculté de chirurgie dentaire;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;105;48.5769141;7.7452835;Institut d'Hygiène et Travaux Pratiques Dentaire;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;106;48.5759452;7.7445620;Psychatrie;2;-;2012-03-25 12:01:01;2012-03-28 10:51:42;batiment;-
+-;-;107;48.5753897;7.7445111;Neurologie;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;108;48.5760730;7.7455947;Anesthésiologie;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;109;48.5760020;7.7466837;Institut d'Anatomie Normale et Pathologique;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;110;48.5754643;7.7471450;Institut de Physique Biologique;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;111;48.5762717;7.7478343;Institut d'Hématologie et d'Immunologie;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;112;48.5765450;7.7447820;Pavillon Leriche;2;-;2012-03-25 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;113;48.5758494;7.7455303;Psychatrie infantile;2;-;2012-03-25 12:01:01;2012-03-28 14:27:24;batiment;-
+-;-;114;48.5774838;7.7462143;Archives;2;-;2012-03-25 12:01:01;2012-03-28 14:30:53;batiment;-
+CRIH;-;115;48.5777375;7.7476841;Centre de Recherche et d'Information sur les Handicaps;2;-;2012-03-25 12:01:01;2012-03-28 14:33:03;batiment;-
+-;-;116;48.5770987;7.7481401;Pharmacie;2;-;2012-03-25 12:01:01;2012-03-28 14:33:41;batiment;-
+-;-;118;48.5777464;7.7483439;Crèche;2;-;2012-03-25 12:01:01;2012-03-28 14:36:23;batiment;-
+-;-;119;48.5770011;7.7405655;Crèche;2;-;2012-03-25 12:01:01;2012-03-28 14:38:14;batiment;-
+-;-;120;48.5768857;7.7413085;Parking réservé personnel des HUS;0;-;2012-03-25 12:01:01;2012-03-28 14:39:49;parking_voitures;-
+-;-;121;48.5764598;7.7414426;Restaurant du personnel;2;-;2012-03-25 12:01:01;2012-03-28 14:41:37;batiment;-
+-;-;122;48.5765858;7.7427623;Porte Kirshleger;2;-;2012-03-25 12:01:01;2012-03-28 14:44:24;autre;-
+-;-;123;48.5753791;7.7457583;Oncologie - Hématologie;2;-;2012-03-25 12:01:01;2012-03-28 14:51:50;batiment;-
+-;-;124;48.5753791;7.7457583;Chirurgie B;2;-;2012-03-25 12:01:01;2012-03-28 14:52:59;batiment;-
+-;-;125;48.5748644;7.7473998;Clinique médicale B;2;-;2012-03-25 12:01:01;2012-03-28 14:54:03;batiment;-
+-;-;126;48.5741617;7.7421856;Porte Pasteur;2;-;2012-03-25 12:01:01;2012-03-28 14:55:14;autre;-
+-;-;127;48.5756062;7.7395356;Porte Koberlé;2;-;2012-03-25 12:01:01;2012-03-28 14:56:28;autre;-
+-;-;128;48.5756311;7.7496877;P1;2;-;2012-03-25 12:01:01;2012-03-28 14:58:07;parking_voitures;-
+-;-;129;48.5749922;7.7493310;P2;2;-;2012-03-25 12:01:01;2012-05-24 15:20:18;parking_voitures;-
+-;-;130;48.5760570;7.7492693;Services techniques et logistiques;2;-;2012-03-25 12:01:01;2012-03-28 15:00:40;batiment;-
+-;-;131;48.5769709;7.7487785;Administration;2;-;2012-03-25 12:01:01;2012-03-28 15:02:15;batiment;-
+-;-;132;48.5765663;7.7469143;Salle des fêtes;2;-;2012-03-25 12:01:01;2012-03-28 15:04:00;batiment;-
+-;-;133;48.5772424;7.7490494;Porte Place de l'Hôpital;2;-;2012-03-25 12:01:01;2012-03-28 15:05:12;autre;-
+-;-;134;48.5767899;7.7494168;Porte Economat;2;-;2012-03-25 12:01:01;2012-03-28 15:06:25;autre;-
+-;-;135;48.5741972;7.7422768;Arrêt Bus;2;-;2012-03-25 12:01:01;2012-03-28 15:12:47;acces_bus;-
+Ligne 15;-;136;48.5740179;7.7433282;Arrêt Hopital civil;0;-;2012-03-25 12:01:01;2012-03-28 15:13:47;acces_bus;-
+-;-;137;48.5745042;7.7385566;Arrêt Bus Lycée Pasteur;2;-;2012-03-25 12:01:01;2012-05-24 15:06:25;acces_bus;-
+-;-;138;48.5743214;7.7387926;Arrêt Bus;2;-;2012-03-25 12:01:01;2012-03-28 15:20:06;acces_bus;-
+-;-;139;48.5785290;7.7392244;Arrêt Bus;2;-;2012-03-25 12:01:01;2012-03-28 15:21:25;acces_bus;-
+-;-;140;48.5787082;7.7397609;Arrêt Bus;2;-;2012-03-25 12:01:01;2012-03-28 15:22:08;acces_bus;-
+-;-;141;48.5745166;7.7488750;Arrêt Bus;2;-;2012-03-25 12:01:01;2012-03-28 15:23:55;acces_bus;-
+-;-;142;48.5748600;7.7485062;Amphi Clinique médicale B;2;-;2012-03-25 12:01:01;2012-03-28 15:24:52;amphi;-
+-;-;143;48.5750188;7.7421883;-;2;-;2012-03-25 12:01:01;2012-03-28 15:27:35;parking_velos;-
+Distributeur bancaire;-;144;48.5763889;7.7426845;Distributeur bancaire;2;-;2012-03-25 12:01:01;2012-03-28 15:30:02;autre;-
+-;-;145;48.5765574;7.7422205;Home des infirmières;2;-;2012-03-25 12:01:01;2012-03-28 15:31:56;batiment;-
+-;-;146;48.5760162;7.7436715;Institut de Pharmacologie Clinique Roche;2;-;2012-03-25 12:01:01;2012-03-28 15:48:55;batiment;http://www.institut-roche.com/
+Coordination Régionale de la lutte contre le Virus de L'Immunodéficience Humaine;-;147;48.5764847;7.7463457;COREVIH;2;-;2012-03-25 12:01:01;2012-03-28 15:48:19;batiment;http://www.corevih-alsace.fr/
+Allée d'Athènes 67300 Schiltigheim;-;148;48.6078162;7.7085614;IUT Louis Pasteur;4;-;2012-03-29 12:01:01;2014-03-13 15:30:32;batiment;http://www.iut-lps.fr/
+-;-;149;48.6047373;7.7112222;IPHC (Institut pluridisciplinaire Hubert Curien);4;-;2012-03-29 12:01:01;2012-05-17 12:20:51;batiment;-
+-;-;150;48.6045139;7.7119625;CNRS Délégation Alsace;4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;151;48.6056348;7.7116567;Département Ecologie  physiologie et éthologie (DEPE);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;152;48.6063123;7.7145052;Institut de physique et de chimie des matériaux de Strasbourg (IPCMS);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;153;48.6067450;7.7159804;Institut Charles Sadron (ICS);4;-;2012-03-29 12:01:01;2012-03-29 11:36:24;batiment;http://www-ics.u-strasbg.fr
+-;-;154;48.6069117;7.7144945;Laboratoire d’imagerie et de neurosciences cognitives (LINC);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;155;48.6079404;7.7166563;Ecole européenne chimie  polymères et matériaux (ECPM);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;156;48.6080361;7.7141136;Département Ecologie  physiologie et éthologie (DEPE);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;157;48.6075892;7.7130085;Centre de loisirs éducatifs (CLE);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;158;48.6073445;7.7114850;Institut franco-allemand de recherche sur l'environnement;4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;160;48.6069756;7.7110505;Institut d’électronique du solide et des systèmes (InESS);4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;161;48.6063052;7.7110934;Bibliothèque;4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;162;48.6057270;7.7137595;Restaurant CROUS;4;-;2012-03-29 12:01:01;2012-03-29 11:40:26;batiment;-
+-;-;163;48.5296419;7.7348363;Faculté de Pharmacie;3;-;2012-03-29 12:01:01;2012-03-29 11:45:17;batiment;-
+-;-;164;48.5294287;7.7364162;Bibliothèque de Pharmacie;3;-;2012-03-29 12:01:01;2012-03-29 11:46:26;batiment;-
+-;-;165;48.5304181;7.7366629;IUT Robert Schuman;3;-;2012-03-29 12:01:01;2014-03-13 15:39:38;batiment;http://iutrs.unistra.fr/
+-;-;166;48.5302067;7.7390528;Léonardo;3;-;2012-03-29 12:01:01;2012-03-29 11:52:08;batiment;-
+-;-;167;48.5285921;7.7356437;Centre d'Analyses et de Recherche;3;-;2012-03-29 12:01:01;2012-03-29 11:54:11;batiment;-
+-;-;168;48.5286241;7.7375373;Restaurant universitaire Ilkirch;3;-;2012-03-29 12:01:01;2012-03-29 12:22:43;batiment;http://crous-strasbourg.fr/restauration/liste-restaurants/strasbourg.html
+Application et Promotion de l'Innovation;-;169;48.5255191;7.7376339;Pole API;3;-;2012-03-29 12:01:01;2012-03-29 12:02:51;batiment;-
+-;-;170;48.5261834;7.7371725;Telecom Physique Strasbourg;3;-;2012-03-29 12:01:01;2012-03-29 12:21:32;batiment;http://www.telecom-physique.fr/
+-;-;171;48.5267252;7.7371216;Institut Régional de la Recherche Appliquée. Département Laser.;3;-;2012-03-29 12:01:01;2012-03-29 12:06:22;batiment;-
+-;-;172;48.5262314;7.7383152;Foyer étudiant;3;-;2012-03-29 12:01:01;2012-03-29 12:07:24;batiment;-
+-;-;173;48.5265049;7.7382159;Service Régional de Traitement d'Image et de Télédétection;3;-;2012-03-29 12:01:01;2012-03-29 12:19:36;batiment;http://www-esbs.u-strasbg.fr
+-;-;174;48.5259134;7.7384815;Ecole Nationale Supérieure de Biotechnologie de Strasbourg;2;-;2012-03-29 12:01:01;2014-03-13 14:16:50;batiment;-
+-;-;175;48.5231102;7.7369070;International Space University (ISU);3;-;2012-03-29 12:01:01;2012-03-31 21:00:28;batiment;http://www.isunet.edu/
+-;-;176;48.5265298;7.7392164;Centre d'Accueil et de Transfert de Technologie;3;-;2012-03-29 12:01:01;2012-03-29 12:14:11;batiment;-
+-;-;177;48.5262776;7.7411771;Institut de génétique et de biologie moléculaire et cellulaire (IGBMC);3;-;2012-03-29 12:01:01;2012-03-29 12:16:50;batiment;http://www.igbmc.fr/
+-;-;178;48.5234131;7.7369097;ENSIIE Strasbourg;3;-;2012-03-31 12:01:01;2012-04-19 16:48:49;batiment;http://www.ensiie.fr/
+Parking Sud ISU;-;179;48.5223135;7.7368252;-;3;-;2012-03-31 12:01:01;2012-03-31 21:27:51;parking_voitures;-
+Parking Nord ISU;-;180;48.5235943;7.7366468;-;3;-;2012-03-31 12:01:01;2012-03-31 21:28:08;parking_voitures;-
+-;-;181;48.5256163;7.7365228;Arrêt Parc d'Innovation;3;-;2012-03-31 12:01:01;2012-03-31 21:23:31;acces_bus;-
+-;-;182;48.5263513;7.7352373;Arrêt Parc d'Innovation;3;-;2012-03-31 12:01:01;2012-03-31 21:24:04;acces_bus;-
+Parking Est Pôle API;-;183;48.5261941;7.7362606;-;3;-;2012-03-31 12:01:01;2012-03-31 21:26:43;parking_voitures;-
+Parking Ouest Pôle API;-;184;48.5258353;7.7393720;-;3;-;2012-03-31 12:01:01;2012-03-31 21:26:29;parking_voitures;-
+Parking Nord Pôle API;-;185;48.5268584;7.7384305;-;3;-;2012-03-31 12:01:01;2012-03-31 21:27:16;parking_voitures;-
+-;-;186;48.5294581;7.7328515;Arrêt Campus d'Ilkirch;3;-;2012-03-31 12:01:01;2012-03-31 21:21:16;acces_tram;-
+Arrêt Campus d'Ilkirch Nord côté campus;-;187;48.5295220;7.7330983;-;3;-;2012-03-31 12:01:01;2012-03-31 21:37:24;acces_bus;-
+Arrêt Campus d'Ilkirch Sud côté campus;-;188;48.5291996;7.7328783;-;3;-;2012-03-31 12:01:01;2012-03-31 21:37:24;acces_bus;-
+Arrêt Campus d'Ilkirch Nord côté Route du Rhin;-;189;48.5296046;7.7327630;-;3;-;2012-03-31 12:01:01;2012-03-31 21:36:58;acces_bus;-
+Parking Faculté de Pharmacie;-;190;48.5288248;7.7352709;-;3;-;2012-03-31 12:01:01;2012-03-31 21:41:00;parking_voitures;-
+Parking Faculté de Pharmacie;-;191;48.5302352;7.7343294;-;3;-;2012-03-31 12:01:01;2012-03-31 21:41:00;parking_voitures;-
+Parking vélo IUT;-;192;48.5308337;7.7366039;-;3;-;2012-03-31 12:01:01;2012-03-31 21:44:33;parking_velos;-
+-;-;193;48.5306366;7.7379557;IUT Génie Civil Robert Schuman;3;-;2012-03-31 12:01:01;2014-03-13 15:41:09;batiment;http://iutrs.unistra.fr/formation/dut/genie-civil
+Parking Est IUT Génie Civil;-;194;48.5306313;7.7394310;-;3;-;2012-03-31 12:01:01;2012-03-31 21:50:55;parking_voitures;-
+Terrain de foot Nord resto U Pharmacie;-;195;48.5293790;7.7377331;-;3;-;2012-03-31 12:01:01;2012-03-31 21:52:29;centre_sportif;-
+30 Rue du Maire André Traband  67500 Haguenau;-;196;48.8158330;7.7860236;IUT de Haguenau;6;-;2012-03-31 12:01:01;2014-03-13 15:27:56;batiment;http://iuthaguenau.unistra.fr/
+Meinau;-;197;48.5602427;7.7436689;Département d'Education Permanente (DEPULP);5;-;2012-03-31 12:01:01;2012-04-19 16:52:37;batiment;-
+Meinau;-;198;48.5600829;7.7440631;Restaurant Personnels - Cellule Congrès;5;-;2012-03-31 12:01:01;2012-04-19 16:52:37;batiment;-
+Meinau;-;199;48.5599019;7.7444762;Pôle ingénierie de l'UFR de Physique et Ingénierie;5;-;2012-03-31 12:01:01;2012-04-19 16:52:37;batiment;-
+-;-;200;48.5784687;7.7649857;-;28;handicap_ok;2012-04-03 12:01:01;2012-04-03 16:08:06;batiment_entree;-
+Juste à gauche en entrant;-;201;48.5784411;7.7650219;-;28;-;2012-04-03 12:01:01;2012-04-03 16:15:31;accueil;-
+Scolarité Arts Lettres Langues - Sciences humaines et sociales.;1;202;48.5783427;7.7644680;Scolarité;28;-;2012-04-03 12:01:01;2012-04-03 16:18:11;scolarite;-
+-;0;203;48.5782637;7.7649227;-;28;-;2012-04-03 12:01:01;2012-04-03 16:21:42;toilettes;-
+-;0;204;48.5781794;7.7649897;-;28;-;2012-04-03 12:01:01;2012-04-03 16:23:10;distributeur;-
+-;0;205;48.5782158;7.7649964;-;28;-;2012-04-03 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Tables et chaises présentes;0;206;48.5782193;7.7649173;-;28;-;2012-04-03 12:01:01;2012-04-03 16:25:57;cafe;-
+Parc intérieur du Patio  bancs;0;207;48.5780995;7.7654457;-;28;-;2012-04-03 12:01:01;2012-04-03 16:27:42;parc;-
+-;0;208;48.5779345;7.7649455;Bibliothèque des langues;28;-;2012-04-03 12:01:01;2012-04-03 16:42:06;bibliotheque;-
+-;-;209;48.5787126;7.7656589;-;0;-;2012-04-03 12:01:01;2012-04-03 16:30:41;parc;-
+-;0;210;48.5784660;7.7653183;-;28;-;2012-04-03 12:01:01;2012-04-03 16:32:05;parking_velos;-
+-;-;211;48.5782859;7.7642025;-;0;-;2012-04-03 12:01:01;2012-04-03 16:33:12;parking_velos;-
+Parking personnels;-;212;48.5777597;7.7653907;-;0;-;2012-04-03 12:01:01;2012-04-03 16:35:37;parking_voitures;-
+Parking personnels;-;213;48.5776098;7.7668203;-;0;-;2012-04-03 12:01:01;2012-04-03 16:36:56;parking_voitures;-
+Terrain de foot et multijeux ouvert;-;214;48.5788697;7.7637398;chantier (plan campus);0;-;2012-04-03 12:01:01;2014-02-06 10:51:16;autre;-
+Salle de théatre;-;215;48.5780658;7.7659178;Salle de la table ronde;28;-;2012-04-03 12:01:01;2012-04-03 16:41:25;salle;-
+-;0-2;216;48.5782593;7.7655356;-;28;handicap_ok;2012-04-03 12:01:01;2012-04-03 16:44:48;ascenseur;-
+-;-;217;48.5782699;7.7621627;Parking personnels;0;-;2012-04-03 12:01:01;2012-04-03 16:46:51;parking_voitures;-
+-;-;218;48.5794296;7.7623786;-;0;-;2012-04-03 12:01:01;2012-04-03 16:50:27;parking_voitures;-
+-;-;219;48.5790054;7.7627581;-;0;-;2012-04-03 12:01:01;2012-04-03 16:51:46;parking_voitures;-
+-;-;220;48.5791953;7.7645606;-;0;-;2012-04-03 12:01:01;2012-04-03 16:53:04;parking_voitures;-
+Entrée Ouest.;-;221;48.5789966;7.7670832;-;45;handicap_non;2012-04-05 12:01:01;2012-04-05 16:41:45;batiment_entree;-
+-;-;222;48.5793195;7.7669719;-;45;-;2012-04-05 12:01:01;2012-04-05 17:27:33;parking_velos;-
+-;-;223;48.5787220;7.7668633;-;45;-;2012-04-05 12:01:01;2012-04-05 16:43:36;parking_velos;-
+Entrée Est.;-;224;48.5789331;7.7678671;-;45;handicap_ok;2012-04-05 12:01:01;2012-04-05 16:44:39;batiment_entree;-
+Monte escaliers pour handicapés moteurs.;0;225;48.5789624;7.7678463;-;45;-;2012-04-05 12:01:01;2012-04-05 16:47:56;acces_handicap;-
+Monte escaliers pour handicapés moteurs.;0;226;48.5789908;7.7675948;-;45;-;2012-04-05 12:01:01;2012-04-05 16:47:56;acces_handicap;-
+-;0-5;227;48.5788573;7.7673648;-;45;-;2012-04-05 12:01:01;2012-04-05 16:50:42;ascenseur;-
+-;0-5;228;48.5790800;7.7674037;-;45;-;2012-04-05 12:01:01;2012-04-05 16:50:42;ascenseur;-
+Toilettes hommes;0-5;229;48.5791035;7.7674024;Toilettes hommes;45;-;2012-04-05 12:01:01;2012-04-05 16:53:28;toilettes;-
+Toilettes femmes;0-5;230;48.5788417;7.7673528;Toilettes femmes;45;-;2012-04-05 12:01:01;2012-04-05 16:53:28;toilettes;-
+Cabine téléphonique également.;0;231;48.5790622;7.7674379;-;45;-;2012-04-05 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+Cabine téléphonique également.;-;232;48.5788848;7.7674051;-;45;-;2012-04-05 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+-;0;233;48.5790378;7.7672911;-;45;-;2012-04-05 12:01:01;2012-04-05 16:58:30;accueil;-
+Bureau 8;0;234;48.5790729;7.7673098;-;45;-;2012-04-05 12:01:01;2012-04-05 17:00:00;scolarite;-
+-;0;235;48.5786745;7.7671717;K'fet droit;45;-;2012-04-05 12:01:01;2012-04-05 17:03:16;cafe;-
+Dans la K'fet;0;236;48.5787047;7.7671543;-;45;-;2012-04-05 12:01:01;2012-05-24 15:13:52;distributeur;-
+-;-;237;48.5786239;7.7671328;AFGES;45;-;2012-04-05 12:01:01;2012-04-05 17:05:21;autre;-
+-;0;238;48.5789220;7.7672642;-;45;-;2012-04-05 12:01:01;2012-11-12 16:32:06;borne_maj;http://www.passcampus-alsace.fr/
+-;0;239;48.5790143;7.7677229;Amphithéatre 1;45;-;2012-04-05 12:01:01;2012-04-05 17:12:05;amphi;-
+-;0;240;48.5788644;7.7676813;Amphithéatre 2;45;-;2012-04-05 12:01:01;2012-04-05 17:12:05;amphi;-
+-;1;241;48.5790507;7.7677283;Carré de Malberg;45;-;2012-04-05 12:01:01;2012-04-05 17:15:24;amphi;-
+-;1;242;48.5788244;7.7676854;Aubry Rau;45;-;2012-04-05 12:01:01;2012-04-05 17:15:24;amphi;-
+Bibliothèque aile Nord;2;243;48.5790693;7.7673420;Bibliothèque de droit;45;-;2012-04-05 12:01:01;2012-04-05 17:19:03;bibliotheque;-
+Bibliothèque aile Sud;2;244;48.5789007;7.7673045;Bibliothèque de droit;45;-;2012-04-05 12:01:01;2012-04-05 17:19:03;bibliotheque;-
+Dans bibliothèque;2;245;48.5791101;7.7672978;-;45;-;2012-04-05 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Dans bibliothèque;2;246;48.5788493;7.7672468;-;45;-;2012-04-05 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Défibrilateur;1;247;48.5790782;7.7673353;Défibrilateur;45;-;2012-04-05 12:01:01;2012-04-05 17:22:50;autre;-
+-;3;248;48.5791421;7.7673300;-;45;-;2012-04-05 12:01:01;2012-04-05 17:24:08;salle_ressources_informatiques;-
+-;5;249;48.5789833;7.7673072;Salle Alex Weil;45;-;2012-04-05 12:01:01;2012-04-05 17:26:11;salle;-
+Défibrilateur;-;250;48.5783471;7.7650179;Défibrilateur;28;Défibrilateur;2012-04-11 12:01:01;2012-04-11 16:25:49;autre;-
+accès handicapés amphi 3;-;251;48.5783196;7.7652352;-;28;-;2012-04-11 12:01:01;2012-04-11 16:25:49;acces_handicap;-
+accès handicapés amphi 4;-;252;48.5782983;7.7654994;-;28;-;2012-04-11 12:01:01;2012-04-11 16:25:49;acces_handicap;-
+accès handicapés amphi 5;-;253;48.5782788;7.7657582;-;28;-;2012-04-11 12:01:01;2012-04-11 16:25:49;acces_handicap;-
+accès handicapés amphi 6;-;254;48.5782584;7.7660130;-;28;-;2012-04-11 12:01:01;2012-04-11 16:25:49;acces_handicap;-
+-;0;255;48.5803567;7.7663791;Amphi 1;50;-;2012-04-11 12:01:01;2012-04-12 15:43:51;amphi;-
+-;0;256;48.5804898;7.7663992;Amphi 2;50;-;2012-04-11 12:01:01;2012-04-12 15:43:51;amphi;-
+-;0;257;48.5806273;7.7664287;Amphi 3;50;-;2012-04-11 12:01:01;2012-04-12 15:43:51;amphi;-
+-;0;258;48.5808136;7.7664636;Amphi 4;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;amphi;-
+-;0;259;48.5809423;7.7664864;Amphi 5;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;amphi;-
+-;0;260;48.5810550;7.7665092;Amphi 6;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;amphi;-
+-;0;261;48.5811162;7.7666232;-;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;toilettes;-
+Entrée principale;0;262;48.5807214;7.7665950;-;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;batiment_entree;-
+-;0;263;48.5802928;7.7664448;-;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;toilettes;-
+-;0;264;48.5803168;7.7664489;-;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;distributeur;-
+Défibrilateur;0;265;48.5806903;7.7665240;Défibrilateur;50;-;2012-04-11 12:01:01;2012-04-12 15:43:09;autre;-
+Cabine téléphonique également.;0;266;48.5806939;7.7664703;-;50;-;2012-04-11 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+Cabine téléphonique également.;0;267;48.5807666;7.7664743;-;50;-;2012-04-11 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+-;0;268;48.5807719;7.7665065;-;50;-;2012-04-11 12:01:01;2012-11-12 16:32:06;borne_maj;http://www.passcampus-alsace.fr/
+Bornes intranet (3);0;269;48.5807728;7.7665360;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;autre;-
+Accueil;0;270;48.5807693;7.7665642;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;accueil;-
+-;1;271;48.5803940;7.7663121;Salle Guy Ourisson;50;-;2012-04-11 12:01:01;2012-04-12 15:43:22;salle;-
+-;-1-9;272;48.5807533;7.7661230;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;ascenseur;-
+Escalier;-1-9;273;48.5806877;7.7660908;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;autre;-
+-;0;274;48.5807746;7.7660774;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;toilettes;-
+Toilettes hommes;1-3;275;48.5807302;7.7661726;-;50;-;2012-04-11 12:01:01;2012-04-12 15:42:32;toilettes;-
+Toilettes femmes;1-3;276;48.5807861;7.7661833;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;toilettes;-
+Assistance sociale;1;277;48.5807214;7.7661216;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;autre;-
+Centre de Ressources de Langues Lebel (CRL);2;278;48.5808190;7.7661431;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;autre;-
+Département L1 - Scolarité;3;279;48.5808225;7.7661283;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;scolarite;-
+-;-1;280;48.5811561;7.7662303;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;toilettes;-
+-;-1;281;48.5802831;7.7660827;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;toilettes;-
+Entée Sud  personnels et handicapés.;-1;282;48.5802343;7.7660961;-;50;handicap_ok;2012-04-11 12:01:01;2012-04-12 15:44:55;batiment_entree;-
+Entrée Ouest  personnels.;-1;283;48.5807684;7.7660130;-;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;batiment_entree;-
+Salle de ressources informatique  Sciences de la vie.;-1;285;48.5809219;7.7661122;Salle -125;50;-;2012-04-11 12:01:01;2012-04-12 15:41:34;salle_ressources_informatiques;-
+Entrée principale du Portique;0;286;48.5783817;7.7628668;-;71;handicap_ok;2012-04-11 12:01:01;2012-04-13 14:42:17;batiment_entree;-
+Accueil du Portique;0;287;48.5783986;7.7627729;-;71;-;2012-04-11 12:01:01;2012-04-13 14:43:28;accueil;-
+Cabine téléphonique.;0;288;48.5783400;7.7627930;-;71;-;2012-04-13 12:01:01;2012-04-13 14:46:37;autre;-
+Bornes intranet (3);0;289;48.5783196;7.7627568;-;71;-;2012-04-13 12:01:01;2012-04-13 14:48:41;autre;-
+Entrée secondaire côté place Ouest.;0;290;48.5783329;7.7626522;-;71;-;2012-04-13 12:01:01;2012-04-13 14:50:00;batiment_entree;-
+-;0;291;48.5785210;7.7626978;Salle d'Evolution;71;-;2012-04-13 12:01:01;2012-04-13 14:51:49;salle;-
+-;0;292;48.5784891;7.7626294;-;71;-;2012-04-13 12:01:01;2012-04-13 14:52:51;toilettes;-
+-;0-6;293;48.5784802;7.7627286;-;71;-;2012-04-13 12:01:01;2012-04-13 15:04:51;ascenseur;-
+-;2;294;48.5785050;7.7626938;Direction Informatique;71;-;2012-04-13 12:01:01;2012-04-13 15:06:23;autre;-
+-;0-6;295;48.5782664;7.7626120;-;71;-;2012-04-13 12:01:01;2012-04-13 15:07:33;toilettes;-
+-;0-6;296;48.5782415;7.7626669;-;71;-;2012-04-13 12:01:01;2012-04-13 15:08:29;ascenseur;-
+Salle avec tables et distributeur;-1;297;48.5783311;7.7626857;-;71;-;2012-04-13 12:01:01;2012-04-13 15:11:06;cafe;-
+-;-1;298;48.5783684;7.7627769;-;71;-;2012-04-13 12:01:01;2012-04-13 15:12:42;distributeur;-
+-;0-1;300;48.5782184;7.7626173;UFR Arts;71;-;2012-04-13 12:01:01;2012-04-13 15:18:34;autre;http://www.unistra.fr/index.php?id=278
+-;2-3;301;48.5782158;7.7626495;Facluté des Sciences du Sport (STAPS);71;-;2012-04-13 12:01:01;2012-04-13 15:21:30;autre;http://www-umb.u-strasbg.fr/staps.htm
+-;4-5;302;48.5782140;7.7626897;UFR Lettres;71;-;2012-04-13 12:01:01;2012-04-13 15:24:04;autre;http://www.unistra.fr/index.php?id=275
+-;6;303;48.5781501;7.7626294;Bibliothèque du Portique;71;-;2012-04-13 12:01:01;2012-04-13 15:26:59;bibliotheque;http://www-sicd.u-strasbg.fr/bibs/portique/
+-;1;304;48.5781430;7.7627166;Scolarité Arts;71;-;2012-04-13 12:01:01;2012-04-13 15:28:15;scolarite;-
+-;2;305;48.5781492;7.7626321;Scolarité STAPS;71;-;2012-04-13 12:01:01;2012-04-13 15:33:02;scolarite;-
+-;4;306;48.5781572;7.7625972;Accueil UFR Lettres;71;-;2012-04-13 12:01:01;2012-04-13 15:34:05;accueil;-
+-;2;307;48.5781226;7.7628185;-;71;-;2012-04-13 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+-;4;308;48.5781847;7.7623397;-;71;-;2012-04-13 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Entrée Nord Est;0;309;48.5786585;7.7621882;-;44;handicap_ok;2012-04-13 12:01:01;2012-04-13 16:40:11;batiment_entree;-
+Entrée Sud Ouest ;0;310;48.5782646;7.7615176;-;44;handicap_ok;2012-04-13 12:01:01;2012-04-13 16:42:02;batiment_entree;-
+-;0-4;311;48.5787091;7.7621560;-;44;-;2012-04-13 12:01:01;2012-04-13 16:43:11;toilettes;-
+-;0-4;312;48.5783191;7.7615015;-;44;-;2012-04-13 12:01:01;2012-04-13 16:45:39;toilettes;-
+-;0;313;48.5786124;7.7619964;Amphi 029;44;-;2012-04-13 12:01:01;2012-04-13 17:01:08;amphi;-
+-;0;314;48.5785281;7.7617925;Amphi 025 Pierre Ortscheidt;44;-;2012-04-13 12:01:01;2012-04-13 17:03:16;amphi;-
+-;0;315;48.5784740;7.7616973;Amphi 024;44;-;2012-04-13 12:01:01;2012-04-13 17:05:08;amphi;-
+-;0;316;48.5784278;7.7616222;Amphi 023;44;-;2012-04-13 12:01:01;2012-04-13 17:05:53;amphi;-
+-;0;317;48.5784891;7.7618355;Accueil Escarpe;44;-;2012-04-13 12:01:01;2012-04-13 17:07:58;accueil;-
+Défibrilateur;0;318;48.5784713;7.7618127;Défibrilateur;44;-;2012-04-13 12:01:01;2012-04-13 17:08:57;autre;-
+Cabine téléphonique;0;319;48.5784846;7.7617992;-;44;-;2012-04-13 12:01:01;2012-04-13 17:09:42;autre;-
+Cabine téléphonique;0;320;48.5785104;7.7618851;-;44;-;2012-04-13 12:01:01;2012-04-13 17:10:39;autre;-
+Bornes intranet;0;321;48.5785263;7.7618864;-;44;-;2012-04-13 12:01:01;2012-04-13 17:11:17;autre;-
+Local avec tables et distributeur;1;322;48.5786488;7.7621627;-;44;-;2012-04-13 12:01:01;2012-04-13 17:13:02;cafe;-
+Bibliothèque Recherche Juridiques;3;323;48.5785450;7.7617604;Bibliothèque Recherche Juridiques;44;-;2012-04-13 12:01:01;2012-04-13 17:17:31;bibliotheque;http://www-sicd.u-strasbg.fr/bibs/recherches-juridiques/
+Centre Universitaire d'Enseignement du Journalisme;2;325;48.5783657;7.7615552;CUEJ;44;-;2012-04-13 12:01:01;2012-04-13 17:20:26;autre;http://cuej.unistra.fr/
+-;-;326;48.5785707;7.7628936;-;0;-;2012-04-13 12:01:01;2012-04-13 17:21:10;parking_velos;-
+-;-;327;48.5782752;7.7629204;-;0;-;2012-04-13 12:01:01;2012-04-13 17:21:38;parking_velos;-
+Accueil du Platane;0;328;48.5780463;7.7672696;-;70;-;2012-04-16 12:01:01;2012-04-16 16:39:02;accueil;-
+Borne Bus Tram (via carte Badgeo);0;329;48.5780969;7.7672642;Borne Bus Tram;70;-;2012-04-16 12:01:01;2012-04-16 16:42:31;autre;-
+-;0;330;48.5781022;7.7672428;-;70;-;2012-04-16 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+Cabine téléphonique;0;331;48.5781013;7.7672119;-;70;-;2012-04-16 12:01:01;2012-04-16 16:44:00;autre;-
+-;0;332;48.5781342;7.7671650;-;70;-;2012-04-16 12:01:01;2012-04-16 16:45:11;toilettes;-
+-;0;333;48.5780924;7.7671932;-;70;-;2012-04-16 12:01:01;2012-11-12 16:32:06;borne_maj;http://www.passcampus-alsace.fr/
+Agora Service de la Vie Universitaire;0;334;48.5780374;7.7671503;Agora SVU;70;-;2012-04-16 12:01:01;2012-04-16 17:13:09;autre;http://svu.unistra.fr
+Service Mon Pass Campus;0;335;48.5780206;7.7671073;Mon Pass Campus;70;-;2012-04-16 12:01:01;2012-04-16 17:14:21;autre;http://www.passcampus-alsace.fr/
+Point de vente SNCF;0;336;48.5780374;7.7670148;Point de vente SNCF;70;-;2012-04-16 12:01:01;2012-04-16 17:15:39;autre;http://www.unistra.fr/index.php?id=561
+Service Carte Culture;0;337;48.5780090;7.7672119;Carte Culture;70;-;2012-04-16 12:01:01;2012-04-16 17:16:36;autre;http://www.carte-culture.org/
+-;0;338;48.5780126;7.7673809;-;70;-;2012-04-16 12:01:01;2012-04-16 17:04:20;cafe;-
+Photomaton dans la cafétéria;0;339;48.5780330;7.7673514;Photomaton;70;-;2012-04-16 12:01:01;2012-04-16 17:06:53;autre;-
+Copieur dans la cafétéria;0;340;48.5780117;7.7673514;-;70;-;2012-04-16 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Distributeurs dans la cafétéria;0;341;48.5779904;7.7673434;-;70;-;2012-04-16 12:01:01;2012-04-16 17:09:31;distributeur;-
+-;1;342;48.5779656;7.7672911;-;70;-;2012-04-16 12:01:01;2012-04-16 17:11:08;toilettes;-
+Entrée principale;0;343;48.5781200;7.7673648;-;70;handicap_ok;2012-04-17 12:01:01;2012-04-17 10:30:20;batiment_entree;-
+Entrée principale;0;344;48.5777606;7.7676237;-;68;handicap_ok;2012-04-17 12:01:01;2012-04-17 11:09:32;batiment_entree;-
+-;0-3;345;48.5777278;7.7676840;-;68;-;2012-04-17 12:01:01;2012-04-17 10:32:30;ascenseur;-
+-;0;346;48.5779123;7.7676988;-;68;-;2012-04-17 12:01:01;2012-04-17 10:33:52;cafe;-
+Distributeurs dans la cafétéria;0;347;48.5779292;7.7676867;-;68;-;2012-04-17 12:01:01;2012-04-17 10:34:43;distributeur;-
+Centre culturel allemand;0;348;48.5780587;7.7677055;Goethe-Institut ;68;-;2012-04-17 12:01:01;2012-04-17 10:38:48;autre;http://www.goethe.de/ins/fr/str/frindex.htm
+-;0;349;48.5777713;7.7677953;Amphi Monte Cristo;68;-;2012-04-17 12:01:01;2012-04-17 10:40:51;amphi;-
+Salle de documentation du ITI-RI et IIEF;0;350;48.5776941;7.7675687;-;68;-;2012-04-17 12:01:01;2012-04-17 10:43:01;bibliotheque;-
+-;0;351;48.5780774;7.7677940;-;68;-;2012-04-17 12:01:01;2012-04-17 10:44:41;toilettes;-
+Institut de Traducteurs  d’Interprètes et de Relations Internationales;1;352;48.5780073;7.7677135;ITI-RI;68;-;2012-04-17 12:01:01;2012-04-17 10:46:41;autre;http://itiri.unistra.fr/
+Salle de ressources informatique pour les étudiants du ITI-RI;1;353;48.5780889;7.7678785;-;68;-;2012-04-17 12:01:01;2012-04-17 10:48:31;salle_ressources_informatiques;-
+-;3;354;48.5777136;7.7677940;Centre de Langues SPIRAL;68;-;2012-04-17 12:01:01;2012-04-17 11:05:16;autre;http://spiral.unistra.fr
+-;2;355;48.5776905;7.7677055;Institut International d'Études Françaises (IIEF);68;-;2012-04-17 12:01:01;2012-04-17 11:08:51;autre;http://iief.unistra.fr/
+Entrée principale;0;356;48.5814045;7.7668297;-;30;handicap_ok;2012-04-17 12:01:01;2012-04-17 16:23:20;batiment_entree;-
+-;0;357;48.5814303;7.7667975;-;30;-;2012-04-17 12:01:01;2012-04-17 16:26:22;accueil;-
+-;0-3;358;48.5814347;7.7667600;-;30;-;2012-04-17 12:01:01;2012-04-17 16:27:06;ascenseur;-
+Salle de ressource informatique Blaise Pascal;0;359;48.5814870;7.7667077;Salle de ressource  ;30;-;2012-04-17 12:01:01;2012-04-17 16:29:56;salle_ressources_informatiques;-
+-;0;360;48.5813841;7.7666460;-;30;-;2012-04-17 12:01:01;2012-04-17 16:31:46;cafe;-
+-;0;361;48.5813850;7.7666755;-;30;-;2012-04-17 12:01:01;2012-04-17 16:32:33;distributeur;-
+-;1-3;362;48.5813992;7.7666366;-;30;-;2012-04-17 12:01:01;2012-04-17 16:34:00;toilettes;-
+Cabine téléphonique;0;363;48.5813761;7.7667949;-;30;-;2012-04-17 12:01:01;2012-04-17 16:37:12;autre;-
+-;1;364;48.5814072;7.7665910;Banque de prêts ;30;-;2012-04-17 12:01:01;2012-04-17 16:40:12;autre;-
+-;1;365;48.5814072;7.7665307;-;30;-;2012-04-17 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Section Chimie LMD Recherche;1;366;48.5812794;7.7665548;Section Chimie LMD Recherche;30;-;2012-04-17 12:01:01;2012-04-17 16:42:06;autre;-
+-;1;367;48.5815350;7.7665977;Section Sciences de la Vie;30;-;2012-04-17 12:01:01;2012-04-17 16:42:57;autre;-
+Unité Régionale de Formation à l'Information Scientifique et Technique (URFIST);2;368;48.5812874;7.7666715;URFIST;30;-;2012-04-17 12:01:01;2012-04-17 16:46:25;autre;http://www.unistra.fr/index.php?id=1134
+Section Informatique et Sciences de l'Ingénieur;2;369;48.5812555;7.7664515;Section Informatique et Sciences de l'Ingénieur;30;-;2012-04-17 12:01:01;2012-04-18 16:46:25;autre;-
+Section Physique;2;370;48.5815190;7.7665642;Section Physique;30;-;2012-04-17 12:01:01;2012-04-17 16:50:20;autre;-
+-;3;371;48.5814107;7.7665333;Accueil section péridiques;30;-;2012-04-17 12:01:01;2012-04-17 16:51:57;autre;-
+-;3;372;48.5813957;7.7665119;-;30;-;2012-04-17 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+Vente sandwitches  snacks ;0;373;48.5819581;7.7662303;Point de vente sandwitches  snacks ;74;-;2012-04-17 12:01:01;2012-04-17 16:57:09;autre;-
+Cafétéria;0;374;48.5818295;7.7661498;Cafétéria;74;-;2012-04-17 12:01:01;2012-04-17 16:58:35;cafe;-
+-;0-2;375;48.5817709;7.7659661;-;74;-;2012-04-17 12:01:01;2012-04-17 16:59:33;ascenseur;-
+-;-;376;48.5834637;7.7620661;Boutique Vélhop Université;0;-;2012-04-17 12:01:01;2012-04-20 17:13:27;vélhop;http://www.velhop.strasbourg.eu
+-;Station Vélhop;377;48.5820176;7.7667707;-;0;-;2012-04-17 12:01:01;2012-04-20 17:17:26;vélhop;http://www.velhop.strasbourg.eu
+Station Vélhop;-;378;48.5845106;7.7687904;-;0;-;2012-04-17 12:01:01;2012-04-20 17:17:26;vélhop;http://www.velhop.strasbourg.eu
+Station Vélhop du campus d'Ilkirch;-;379;48.5296756;7.7342436;-;0;-;2012-04-17 12:01:01;2012-04-20 17:20:33;vélhop;http://www.velhop.strasbourg.eu/
+-;0;380;48.5798736;7.7639182;-;63;handicap_ok;2012-04-24 12:01:01;2012-04-24 16:44:02;batiment_entree;-
+-;0;381;48.5798608;7.7638203;-;63;-;2012-04-24 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+-;0;382;48.5798386;7.7637103;Amphi Jean Frenkel;63;-;2012-04-24 12:01:01;2012-04-24 16:46:25;amphi;-
+-;0;383;48.5796447;7.7636781;Petit amphi;63;-;2012-04-24 12:01:01;2012-04-24 16:47:17;amphi;-
+-;0;384;48.5798860;7.7634790;-;63;-;2012-04-24 12:01:01;2012-04-24 16:48:19;cafe;-
+-;0;385;48.5798687;7.7634609;-;63;-;2012-04-24 12:01:01;2012-04-24 16:48:57;distributeur;-
+-;0;386;48.5800120;7.7638907;Toilettes hommes;63;-;2012-04-24 12:01:01;2012-04-24 16:50:05;toilettes;-
+-;0;387;48.5800307;7.7635910;Toilettes femmes;63;-;2012-04-24 12:01:01;2012-04-24 16:51:25;toilettes;-
+-;0;388;48.5798599;7.7633321;-;63;-;2012-04-24 12:01:01;2012-05-24 15:09:31;parc;-
+Amphi Edmond et Jean-Pierre Rothé;0;389;48.5796842;7.7631343;Amphi Edmond et Jean-Pierre Rothé;63;-;2012-04-24 12:01:01;2012-04-24 16:54:23;amphi;-
+Cabine téléphonique;0;390;48.5797561;7.7630867;-;63;-;2012-04-24 12:01:01;2012-04-24 16:55:41;autre;-
+-;0;391;48.5796531;7.7629606;-;63;handicap_non;2012-04-24 12:01:01;2012-04-24 16:56:40;batiment_entree;-
+-;0;392;48.5796891;7.7629264;-;63;-;2012-04-24 12:01:01;2012-04-24 16:57:24;accueil;-
+-;1-5;393;48.5797419;7.7628272;-;63;-;2012-04-24 12:01:01;2012-04-24 16:58:44;toilettes;-
+-;0-5;394;48.5798168;7.7628326;-;63;-;2012-04-24 12:01:01;2012-04-24 16:59:27;ascenseur;-
+Niveau entresol (E). ;Scolarité Physique du Globe;395;48.5798319;7.7626602;-;63;-;2012-04-24 12:01:01;2012-04-24 17:01:59;scolarite;-
+Bibliothèque Physique du Globe;0;396;48.5798301;7.7626227;-;63;-;2012-04-24 12:01:01;2012-04-24 17:02:55;bibliotheque;-
+-;0-4;397;48.5801149;7.7637814;-;63;-;2012-04-24 12:01:01;2012-04-24 17:04:06;ascenseur;-
+Scolarité Informatique et Mathématiques;1;398;48.5800919;7.7637318;Scolarité Info-Math;63;-;2012-04-24 12:01:01;2012-04-24 17:05:26;scolarite;-
+Accès handicapés sur la gauche via parking;0;399;48.5804459;7.7630290;-;56;handicap_ok;2012-04-24 12:01:01;2012-04-24 17:11:04;batiment_entree;-
+-;0;400;48.5806020;7.7628601;-;56;handicap_non;2012-04-24 12:01:01;2012-04-24 17:12:26;batiment_entree;-
+Salle de conférences;0;401;48.5804463;7.7626348;Salle de conférences;56;-;2012-04-24 12:01:01;2012-04-24 17:14:54;amphi;-
+-;-;402;48.5804605;7.7627937;-;56;-;2012-04-24 12:01:01;2012-04-24 17:15:49;ascenseur;-
+-;0;403;48.5803891;7.7627655;-;56;-;2012-04-24 12:01:01;2012-04-24 17:18:08;cafe;-
+-;0;404;48.5804006;7.7627474;-;56;-;2012-04-24 12:01:01;2012-04-24 17:18:49;distributeur;-
+Scolarité IREM (Institut de Recherche sur l'Enseignement des Mathématiques);0;405;48.5805856;7.7626099;Scolarité IREM;56;-;2012-04-24 12:01:01;2012-04-24 17:21:00;scolarite;http://irem.u-strasbg.fr/
+Bibliothèque IREM;-;406;48.5805821;7.7627065;Bibliothèque IREM;56;-;2012-04-24 12:01:01;2012-04-24 17:22:03;bibliotheque;http://irem.u-strasbg.fr/
+Intitut de Recherche Mathématique Avancée;0;407;48.5804685;7.7629633;Administration IRMA;56;-;2012-04-24 12:01:01;2012-04-24 17:24:35;autre;http://www-irma.u-strasbg.fr/
+-;0;408;48.5804805;7.7629070;-;56;-;2012-04-24 12:01:01;2012-04-24 17:25:23;toilettes;-
+Entrée principale;0;409;48.5806850;7.7672079;-;87;handicap_ok;2012-05-03 12:01:01;2012-05-03 15:12:25;batiment_entree;-
+-;0;410;48.5807276;7.7673702;-;87;-;2012-05-03 12:01:01;2012-05-03 15:13:22;accueil;-
+Cabine téléphonique;-;411;48.5807249;7.7673957;Cabine téléphonique;87;-;2012-05-03 12:01:01;2012-10-29 15:31:26;autre;-
+Scolarité Chimie;0;412;48.5808394;7.7674292;-;87;-;2012-05-03 12:01:01;2012-05-03 15:18:38;scolarite;-
+-;0;413;48.5812156;7.7673058;-;87;handicap_ok;2012-05-03 12:01:01;2012-05-03 15:20:50;batiment_entree;-
+-;0;414;48.5812280;7.7674104;-;87;-;2012-05-03 12:01:01;2012-05-03 15:22:39;distributeur;-
+K'fet Chimie;0;415;48.5813229;7.7674104;-;87;-;2012-05-03 12:01:01;2012-05-03 15:25:36;cafe;-
+-;0;416;48.5812120;7.7675472;-;87;-;2012-05-03 12:01:01;2012-05-03 15:26:52;toilettes;-
+Amphi Muller;0;417;48.5812502;7.7675714;Amphi Muller;87;-;2012-05-03 12:01:01;2012-05-03 15:28:45;amphi;-
+Amphi Fischer;0;418;48.5813318;7.7676143;Amphi Fischer;87;-;2012-05-03 12:01:01;2012-05-03 15:30:34;amphi;-
+Amphi Guy Ourisson;1;419;48.5813176;7.7676813;Amphi Guy Ourisson;87;-;2012-05-03 12:01:01;2012-05-03 15:33:06;amphi;-
+Salle Gerhardt;1;420;48.5814028;7.7674346;Salle Gerhardt;87;-;2012-05-03 12:01:01;2012-05-03 15:35:52;salle;-
+-;0-14;421;48.5806220;7.7676585;-;87;-;2012-05-03 12:01:01;2012-05-03 15:37:52;toilettes;-
+-;0-14;422;48.5805865;7.7676424;-;87;-;2012-05-03 12:01:01;2012-05-03 15:38:53;ascenseur;-
+-;0;423;48.5803266;7.7653277;-;32;handicap_ok;2012-05-03 12:01:01;2012-05-03 15:42:09;batiment_entree;-
+-;0;424;48.5804135;7.7653170;-;32;-;2012-05-03 12:01:01;2012-05-03 15:43:01;accueil;-
+-;0;425;48.5805067;7.7645096;-;57;handicap_ok;2012-05-03 12:01:01;2012-05-03 15:47:53;batiment_entree;-
+-;0;426;48.5795134;7.7646840;-;52;handicap_non;2012-05-03 12:01:01;2012-05-03 15:49:59;batiment_entree;-
+-;0;427;48.5795427;7.7646625;-;52;-;2012-05-03 12:01:01;2012-05-03 15:50:56;accueil;-
+-;0;428;48.5795906;7.7657649;-;86;-;2012-05-03 12:01:01;2012-05-03 15:56:32;batiment_entree;-
+-;0;429;48.5795959;7.7660070;-;86;-;2012-05-03 12:01:01;2012-05-03 15:57:57;toilettes;-
+-;-1-4;430;48.5796070;7.7660110;-;86;-;2012-05-03 12:01:01;2012-05-03 15:59:21;ascenseur;-
+-;0;431;48.5796957;7.7659949;-;86;-;2012-05-03 12:01:01;2012-05-03 16:01:30;distributeur;-
+-;0;432;48.5796420;7.7653740;-;86;-;2012-05-03 12:01:01;2012-05-03 16:02:46;toilettes;-
+-;0;433;48.5796540;7.7653813;-;86;-;2012-05-03 12:01:01;2012-05-03 16:03:32;ascenseur;-
+Amphi R10;0;434;48.5798403;7.7659721;Amphi R10;86;-;2012-05-03 12:01:01;2012-05-03 16:04:49;amphi;-
+-;0;435;48.5801065;7.7657367;-;85;handicap_ok;2012-05-03 12:01:01;2012-05-03 16:06:32;batiment_entree;-
+-;-;436;48.5800826;7.7657622;-;85;-;2012-05-03 12:01:01;2012-05-03 16:07:43;ascenseur;-
+-;0;437;48.5800293;7.7657019;-;85;-;2012-05-03 12:01:01;2012-05-03 16:08:23;accueil;-
+-;0;438;48.5800267;7.7656522;-;85;-;2012-05-03 12:01:01;2012-05-03 16:09:15;distributeur;-
+Entrée principale du Nouveau Patio;0;439;48.5789975;7.7647001;-;65;handicap_ok;2012-05-03 12:01:01;2012-05-03 16:12:36;batiment_entree;-
+-;0;440;48.5789016;7.7646196;-;65;-;2012-05-03 12:01:01;2012-05-03 16:13:54;accueil;-
+Espace avenir (orientation - stage - emploi);0;441;48.5787180;7.7648020;Espace avenir;65;-;2012-05-03 12:01:01;2012-05-03 16:16:22;autre;http://www.unistra.fr/index.php?id=103
+-;0;442;48.5786497;7.7645257;-;65;-;2012-05-03 12:01:01;2012-05-03 16:19:21;toilettes;-
+-;0-4;443;48.5786647;7.7644439;-;65;-;2012-05-03 12:01:01;2012-05-03 16:21:41;ascenseur;-
+Ligne E Robertsau Boecklin vers Baggersee Ligne F Elsau vers Place d'Islande Ligne C Gare Centrale vers Neuhof Rodolph Reuss;-;444;48.5826870;7.7640100;Tram Université;1;-;2012-05-03 12:01:01;2014-02-14 15:54:58;acces_tram;-
+-;-;445;48.5813300;7.7689670;Tram Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:45:23;acces_tram;-
+Ligne E (Robertsau Boecklin vers Baggersee) Ligne C (Gare Centrale vers Neuhof Rodolphe Reuss);-;446;48.5782950;7.7693560;Tram Esplanade;1;-;2012-05-03 12:01:01;2014-02-14 15:33:53;acces_tram;-
+-;-;447;48.5843697;7.7584032;Galia;1;-;2012-05-03 12:01:01;2012-10-29 11:52:33;acces_tram;-
+-;-;448;48.5844248;7.7592025;Galia;1;-;2012-05-03 12:01:01;2012-10-29 11:54:53;acces_bus;-
+Ligne 15  Robertsau Boecklin vers Lingolsheim Alouettes;-;449;48.5814730;7.7702540;Bus Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:41:19;acces_bus;-
+Bd de la Marne;-;450;48.5837239;7.7730319;-;1;-;2012-05-03 12:01:01;2012-10-29 11:58:36;acces_bus;-
+Ligne 2 Campus d'Illkirch vers Pont du Rhin;-;451;48.5808040;7.7704970;Bus Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:39:46;acces_bus;-
+Ligne 15 Robertsau Boecklin vers Lingolsheim Alouettes;-;452;48.5781940;7.7691940;Bus Esplanade;1;-;2012-05-03 12:01:01;2014-02-14 15:27:38;acces_bus;-
+Ligne 30 Robertsau Chasseurs vers Wattwiller;-;453;48.5771180;7.7681810;Bus Rome;1;-;2012-05-03 12:01:01;2014-02-14 15:21:01;acces_bus;-
+Ligne 15 Lingolsheim Alouettes vers Robertsau Boecklin Ligne 30 Robertsau Chasseurs vers Wattwiller;-;454;48.5776160;7.7638700;Bus Palerme;1;-;2012-05-03 12:01:01;2014-02-14 15:16:51;acces_bus;-
+Ligne 15 Robertsau Boecklin vers Lingolsheim Alouettes Ligne 30 Wattwiller vers Robertsau Chasseurs;-;455;48.5777240;7.7641699;Bus Palerme;1;-;2012-05-03 12:01:01;2014-02-14 15:18:20;acces_bus;-
+Ligne 15
+Lingolsheim Alouettes vers Robertsau Boecklin
+Ligne 30
+Robertsau Chasseurs vers Wattwiller;-;456;48.5779037;7.7618149;Bus Cité Administrative;1;-;2012-05-03 12:01:01;2014-02-14 15:13:56;acces_bus;-
+Ligne 15
+Robertsau Boecklin vers Lingolsheim Alouettes
+Ligne 30
+Wattwiller vers Robertsau Chasseurs;-;457;48.5784077;7.7605489;Bus Cité Administrative;1;-;2012-05-03 12:01:01;2014-02-14 15:11:03;acces_bus;-
+-;-;458;48.5778770;7.7393594;Grand amphi de médecine;2;-;2012-05-03 12:01:01;2012-10-29 15:26:10;amphi;-
+-;-;459;48.5778718;7.7392415;Petit amphi de médecine;2;-;2012-05-03 12:01:01;2012-10-29 15:25:21;amphi;-
+-;-;461;48.5817497;7.7659500;Restaurant Universitaire de l'Esplanade;74;-;2012-03-25 12:01:01;2012-11-07 11:53:04;restaurant_universitaire;-
+-;-;462;48.5846200;7.7595296;Restaurant Universitaire Galia;73;-;2012-03-25 12:01:01;2012-11-07 11:58:22;restaurant_universitaire;http://www.afges.org/fr/12943272486256-la-gallia-ru-de-l-afges.html
+-;-;463;48.5761014;7.7636406;Restaurant universitaire Paul Appell;1;-;2012-03-25 12:01:01;2012-03-29 12:23:09;batiment;http://crous-strasbourg.fr/restauration/liste-restaurants/strasbourg.html
+-;-;464;48.5817180;7.7659923;-;74;-;2012-05-03 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+-;-;465;48.5761016;7.7636348;-;463;-;2012-05-03 12:01:01;2012-11-12 16:22:15;borne_recharge;http://www.passcampus-alsace.fr/
+-;-;466;48.5813941;7.7667166;Bibliothèque Blaise Pascal;30;-;2012-03-25 12:01:01;2012-11-12 14:31:02;bibliotheque;http://www-sicd.u-strasbg.fr/bibs/sciences/
+-;-;467;48.5802320;7.7657779;K'fet des Sciences;1;-;2012-05-03 12:01:01;2012-11-07 17:08:57;batiment;-
+-;-;468;48.5802320;7.7657779;K'fet des Sciences;467;-;2012-05-03 12:01:01;2012-11-07 17:08:57;cafe;-
+-;-;469;48.5804508;7.7653652;Centre Sportif Universitaire;32;-;2012-03-25 12:01:01;2012-03-28 16:06:18;centre_sportif;https://wo.u-strasbg.fr/app/WebObjects/SUAPSWeb.woa/wa/acceuil
+-;-;470;48.5834637;7.7620661;Boutique Vélhop Université;0;-;2012-04-17 12:01:01;2012-04-20 17:13:27;velhop;http://www.velhop.strasbourg.eu
+-;Station Vélhop;471;48.5820176;7.7667707;-;0;-;2012-04-17 12:01:01;2012-04-20 17:17:26;velhop;http://www.velhop.strasbourg.eu
+Station Vélhop;-;472;48.5845106;7.7687904;-;0;-;2012-04-17 12:01:01;2012-04-20 17:17:26;velhop;http://www.velhop.strasbourg.eu
+Station Vélhop du campus d'Ilkirch;-;473;48.5296756;7.7342436;-;0;-;2012-04-17 12:01:01;2012-04-20 17:20:33;velhop;http://www.velhop.strasbourg.eu/
+-;-;474;48.5833430;7.7679330;Grande Coupole;66;-;2012-05-03 12:01:01;2012-11-09 16:46:49;autre;-
+Accès réservé aux personnels et étudiants de l'Observatoire.;1;475;48.5828696;7.7689791;Bibliothèque Observatoire;66;-;2012-05-03 12:01:01;2012-11-09 16:49:20;bibliotheque;-
+-;0;476;48.5839324;7.7672518;Serre tropicale;58;-;2012-05-03 12:01:01;2012-11-09 17:05:37;autre;-
+-;0;477;48.5840823;7.7669083;-;54;-;2012-05-03 12:01:01;2012-11-09 17:04:55;batiment_entree;-
+-;0;478;48.5839900;7.7668573;-;54;-;2012-05-03 12:01:01;2012-11-09 17:04:32;accueil;-
+-;0;479;48.5840335;7.7670933;-;54;-;2012-05-03 12:01:01;2012-11-09 17:04:09;distributeur;-
+-;0-2;480;48.5840841;7.7667601;-;54;-;2012-05-03 12:01:01;2012-11-09 16:57:42;ascenseur;-
+-;0-1;481;48.5840158;7.7667011;-;54;-;2012-05-03 12:01:01;2012-11-09 16:58:54;toilettes;-
+Scolarité Botanique  Sciences de la Vie;0;482;48.5842181;7.7663766;-;54;-;2012-05-03 12:01:01;2012-11-09 17:05:56;scolarite;-
+-;0;483;48.5842180;7.7668271;Salle d'Alsace;54;-;2012-05-03 12:01:01;2012-11-09 17:03:37;salle;-
+-;1;484;48.5840070;7.7666823;Grande salle de conférence;54;-;2012-05-03 12:01:01;2012-11-09 17:09:21;salle;-
+-;1;485;48.5840983;7.7663779;Petite salle de conférence;54;-;2012-05-03 12:01:01;2012-11-09 17:09:21;salle;-
+-;1;486;48.5842163;7.7668164;Centre de ressource de langues Vie;54;-;2012-05-03 12:01:01;2012-11-09 17:11:21;autre;-
+Entrée étudiants à l'étage 2.;1-2;487;48.5841400;7.7666139;Amphi Maresquelle;54;-;2012-05-03 12:01:01;2012-11-09 17:12:52;amphi;-
+Amicale de Psychologie de l'Université de Strasbourg;0;488;48.5843129;7.7654183;Cafétéria LAPSUS ;47;-;2012-05-03 12:01:01;2012-11-12 11:18:11;cafe;http://www.asso-lapsus.com/
+-;0;489;48.5843200;7.7654760;-;47;-;2012-05-03 12:01:01;2012-11-12 11:17:35;acces_handicap;-
+-;-;490;48.5844660;7.7658790;DLI - Direction de la Logistique Immobilière;1;-;2012-05-03 12:01:01;2012-11-12 11:21:18;batiment;-
+-;0;491;48.5844290;7.7655390;-;47;-;2012-05-03 12:01:01;2012-11-12 11:28:24;toilettes;-
+-;0;492;48.5845030;7.7653499;Bibliothèque de Psychologie et Sciences de l'Education;47;-;2012-05-03 12:01:01;2012-11-12 11:30:12;bibliotheque;-
+-;1;493;48.5845100;7.7652900;Amphi Gaston Viaud;47;-;2012-05-03 12:01:01;2012-11-12 11:32:00;amphi;-
+-;-;494;48.5844710;7.7650964;-;47;-;2012-05-03 12:01:01;2012-11-12 11:32:43;parking_velos;-
+-;1;495;48.5846306;7.7649945;-;47;-;2012-05-03 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+-;0;496;48.5846600;7.7649503;Scolarité Fac Psychologie;47;-;2012-05-03 12:01:01;2012-11-12 11:41:17;scolarite;-
+-;0;497;48.5846359;7.7646565;-;47;-;2012-05-03 12:01:01;2012-11-12 11:43:18;toilettes;-
+Défibrilateur;0;498;48.5847148;7.7646848;-;47;-;2012-05-03 12:01:01;2012-11-12 11:44:58;autre;-
+-;0;499;48.5848820;7.7641416;-;47;-;2012-05-03 12:01:01;2012-11-12 11:46:09;toilettes;-
+-;1;500;48.5847849;7.7643213;Amphi Lagache;47;-;2012-05-03 12:01:01;2012-11-12 11:50:41;amphi;-
+-;-;501;48.5835900;7.7650650;-;48;-;2012-05-03 12:01:01;2012-11-28 14:14:48;batiment_entree;-
+-;0;504;48.5836564;7.7651325;Galerie d'actualité scientifique;48;-;2012-05-03 12:01:01;2012-11-29 14:45:04;autre;http://jardin-sciences.unistra.fr/
+-;0;505;48.5837440;7.7653000;-;48;-;2012-05-03 12:01:01;2012-11-28 14:21:30;toilettes;-
+-;-1;506;48.5835500;7.7652516;-;48;-;2012-05-03 12:01:01;2012-11-29 14:47:01;distributeur;-
+-;0-1;507;48.5835800;7.7653020;-;48;-;2012-05-03 12:01:01;2012-11-29 14:48:26;ascenseur;-
+-;0;508;48.5835074;7.7654420;Amphi R4;48;-;2012-05-03 12:01:01;2012-11-29 14:50:09;amphi;-
+-;0;509;48.5827223;7.7646749;Entrée du Musée Zoologique;76;-;2012-05-03 12:01:01;2012-11-29 15:14:40;batiment_entree;http://www.musees.strasbourg.eu/index.php?page=musee-zoo
+-;0;510;48.5826930;7.7647849;-;76;-;2012-05-03 12:01:01;2012-11-29 14:55:25;acces_handicap;-
+-;0;511;48.5827711;7.7647084;-;76;-;2012-05-03 12:01:01;2012-11-29 14:58:12;accueil;-
+-;0;512;48.5831889;7.7646132;Entrée vers Amphi Bataillon;76;-;2012-05-03 12:01:01;2012-11-29 15:14:06;batiment_entree;-
+-;0;513;48.5831038;7.7646803;-;76;-;2012-05-03 12:01:01;2012-11-29 15:17:23;distributeur;-
+-;0;514;48.5831171;7.7646186;Amphi Bataillon;76;-;2012-05-03 12:01:01;2012-11-29 15:18:48;amphi;-
+-;-;515;48.5838384;7.7639199;-;55;-;2012-05-03 12:01:01;2012-11-29 15:38:57;batiment_entree;-
+Rez-de-chaussée surélevé;0;516;48.5838862;7.7638903;Café Amicale Ariane;55;-;2012-05-03 12:01:01;2012-11-29 15:46:10;cafe;https://asso-ariane.u-strasbg.fr/
+Rez-de-chaussée surélevé;0;517;48.5838792;7.7640178;-;55;-;2012-05-03 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+-;0-2;518;48.5839780;7.7639601;-;55;-;2012-05-03 12:01:01;2012-11-29 16:24:04;toilettes;-
+-;-;519;48.5837647;7.7645475;Amphi Carnot;55;-;2012-05-03 12:01:01;2012-11-29 16:26:19;amphi;-
+-;-;520;48.5838801;7.7646199;Amphi Weiss;55;-;2012-05-03 12:01:01;2012-11-29 16:28:05;amphi;-
+Au dernier étage;-;521;48.5837100;7.7645261;Centre de Ressources en Langues Physique;55;-;2012-05-03 12:01:01;2012-11-29 16:29:45;autre;-
+-;-;522;48.5838711;7.7642069;Bibliothèque Institut de Physique;55;-;2012-05-03 12:01:01;2012-11-29 16:30:56;bibliotheque;-
+-;-;523;48.5839625;7.7636838;-;55;handicap_ok;2012-05-03 12:01:01;2012-11-29 16:50:03;batiment_entree;-
+-;0-2;524;48.5841515;7.7637669;-;55;-;2012-05-03 12:01:01;2012-11-29 16:51:24;toilettes;-
+-;1;525;48.5840512;7.7633472;Scolarité Institut de Physique;55;-;2012-05-03 12:01:01;2012-11-29 16:53:18;scolarite;-
+-;2;526;48.5841223;7.7636020;Amphi Fresnel;55;-;2012-05-03 12:01:01;2012-11-29 16:54:31;amphi;-
+-;-;527;48.5838499;7.7644778;-;55;-;2012-05-03 12:01:01;2012-11-29 16:55:46;ascenseur;-
+-;-;528;48.5848800;7.7620520;-;67;-;2012-05-03 12:01:01;2012-12-06 15:09:43;batiment_entree;-
+-;0;529;48.5847947;7.7620587;-;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;accueil;-
+-;0;530;48.5847270;7.7620534;Défibrilateur;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;autre;-
+Deux copieurs;0;531;48.5846990;7.7621083;-;67;-;2012-05-03 12:01:01;2013-01-10 15:50:51;copieur;http://www.passcampus-alsace.fr/fonctionnalites/impression/
+-;0;532;48.5846998;7.7621379;-;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;borne_maj;-
+-;0;533;48.5846918;7.7621553;-;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;distributeur;-
+-;0;534;48.5845729;7.7619568;Bibliothèque IPR (Institut de Pédagogie Religieuse);67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;bibliotheque;-
+-;0;535;48.5843769;7.7619380;Théologie Catholique;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;scolarite;-
+-;0;536;48.5843715;7.7620681;-;67;-;2012-05-03 12:01:01;2012-12-06 16:22:47;toilettes;-
+-;1;537;48.5842793;7.7622465;Institut des Sciences Historiques;67;-;2012-05-03 12:01:01;2012-12-06 16:11:40;scolarite;-
+-;0;538;48.5844460;7.7623497;Institut de Droit Canonique;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;autre;-
+-;0;539;48.5846102;7.7622826;Toilettes femmes;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;toilettes;-
+-;0;540;48.5846137;7.7625334;Presses Universitaires de Strasbourg;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;autre;http://www.pu-strasbourg.com/
+-;0;541;48.5845880;7.7626260;Secrétariat Arts Visuels;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;scolarite;-
+-;0;542;48.5844922;7.7628688;Département des Arts Plastiques;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;autre;-
+-;0;543;48.5847238;7.7630055;SCD Histoire;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;bibliotheque;-
+-;0;544;48.5847779;7.7630538;Université Populaire;67;-;2012-05-03 12:01:01;2012-12-06 16:21:06;autre;http://www.u-populaire-europeenne.com/
+-;-1-1;545;48.5850112;7.7626770;-;67;-;2012-05-03 12:01:01;2012-12-06 15:43:11;ascenseur;-
+-;0;546;48.5853288;7.7624289;Théologie Protestante;67;-;2012-05-03 12:01:01;2012-12-06 16:19:56;scolarite;-
+-;0;547;48.5851797;7.7623323;Bibliothèque des facultés de Théologies catholique et protestante;67;-;2012-05-03 12:01:01;2012-12-06 16:19:56;bibliotheque;http://www-sicd.u-strasbg.fr/bibs/theologie/
+-;0;548;48.5850342;7.7624114;Toilettes hommes;67;-;2012-05-03 12:01:01;2012-12-06 16:19:12;toilettes;-
+-;-;549;48.5847238;7.7626367;Aula Marc Bloch;67;-;2012-05-03 12:01:01;2012-12-06 15:57:01;autre;-
+-;-1;550;48.5844788;7.7624007;-;67;-;2012-05-03 12:01:01;2012-12-06 16:00:08;batiment_entree;-
+-;-1;551;48.5844629;7.7623471;Cafétéria;67;-;2012-05-03 12:01:01;2012-12-06 16:01:36;cafe;-
+-;-1;552;48.5844594;7.7628916;-;67;-;2012-05-03 12:01:01;2012-12-06 16:02:44;batiment_entree;-
+-;-1;553;48.5848267;7.7631423;-;67;-;2012-05-03 12:01:01;2012-12-06 16:04:03;batiment_entree;-
+Entrée à ouverture/fermeture automatique;-1;554;48.5850564;7.7627682;-;67;handicap_ok;2012-05-03 12:01:01;2012-12-06 16:05:48;batiment_entree;-
+-;-1;555;48.5853412;7.7626944;-;67;-;2012-05-03 12:01:01;2012-12-06 16:06:53;batiment_entree;-
+-;-1;556;48.5851647;7.7625710;Salle Tauler;67;-;2012-05-03 12:01:01;2012-12-06 16:08:30;salle;-
+-;-1;557;48.5852267;7.7625509;-;67;-;2012-05-03 12:01:01;2012-12-06 16:09:57;toilettes;-
+-;1;558;48.5845073;7.7623792;Bibliothèque Histoire;67;-;2012-05-03 12:01:01;2012-12-06 16:13:46;bibliotheque;-
+-;1;559;48.5847397;7.7623404;Salle Fustel de Coulanges;67;-;2012-05-03 12:01:01;2012-12-06 16:17:04;salle;-
+-;1;560;48.5847689;7.7622358;Salle Pasteur;67;-;2012-05-03 12:01:01;2012-12-06 16:18:14;salle;-
+-;-;561;48.5835447;7.7626902;-;49;-;2012-05-03 12:01:01;2012-12-06 16:28:10;batiment_entree;-
+-;-;562;48.5834116;7.7631824;-;49;-;2012-05-03 12:01:01;2012-12-06 16:29:07;batiment_entree;-
+-;0;563;48.5833921;7.7630576;Amphi Aubrée;49;-;2012-05-03 12:01:01;2012-12-06 16:30:01;amphi;-
+-;-;564;48.5835225;7.7628552;-;49;-;2012-05-03 12:01:01;2012-12-06 16:31:24;ascenseur;-
+Bâtiment J;-;566;48.5256023;7.7378485;UFR Mathématique et Informatique - Pôle API;3;-;2014-01-20 12:01:01;2014-01-20 15:41:43;batiment;http://mathinfo.unistra.fr/
+-;1;567;48.5785047;7.7618221;Spot Numérique Escarpe;44;-;2012-05-03 12:01:01;2014-02-06 10:34:13;spot_numerique;-
+-;0;569;48.5789437;7.7622264;Spot Numérique U2-U3;31;-;2012-05-03 12:01:01;2014-02-06 10:42:33;spot_numerique;-
+-;1;570;48.5784495;7.7647598;Spot Numérique Patio;28;-;2012-05-03 12:01:01;2014-02-06 10:43:32;spot_numerique;-
+-;0;571;48.5807137;7.7665073;Spot Numérique Lebel;50;-;2012-05-03 12:01:01;2014-02-06 10:43:53;spot_numerique;-
+Ligne 30 Wattwiller vers Robertsau Chasseurs;-;572;48.5772610;7.7680890;Bus Rome;1;-;2012-05-03 12:01:01;2014-02-14 15:24:06;acces_bus;-
+Ligne Bus 15 Lingolsheilm Alouettes vers Robertsau Boecklin;-;574;48.5784480;7.7696300;Bus Esplanade;1;-;2012-05-03 12:01:01;2014-02-14 15:32:00;acces_bus;-
+Ligne E (Baggersee vers Robertsau Boecklin) Ligne C (Neuhof Rodolphe Reuss vers Gare Centrale);-;575;48.5782810;7.7694760;Tram Esplanade;1;-;2012-05-03 12:01:01;2014-02-14 15:37:35;acces_tram;-
+Ligne 2 Pont du Rhin vers Campus d'Illkirch;-;576;48.5813950;7.7703990;Bus Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:42:55;acces_bus;-
+Ligne 15 Lingolsheim Alouettes vers Robertsau Boecklin;-;577;48.5814480;7.7704620;Bus Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:44:06;acces_bus;-
+Ligne E Baggersee vers Robertsau Boecklin Ligne F Place d'Islande vers Elsau  Ligne C Neuhof Rodolph Reuss vers Gare Centrale;-;578;48.5813890;7.7689100;Tram Observatoire;1;-;2012-05-03 12:01:01;2014-02-14 15:46:19;acces_tram;-
